@@ -1,0 +1,11 @@
+{
+  "name": "Utiland",
+  "website": "https://dapp.ultiland.io",
+  "description": "ARTX",
+  "explorer": "https://bscscan.com/token/0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32",
+  "type": "BEP20",
+  "symbol": "ARTX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32"
+}
